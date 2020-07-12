@@ -1,5 +1,23 @@
 # EDPlugins
 
+* [Plugins](#Plugins " ")
+	* [Game Hider](#Game-Hider " ")
+	* [Themes](#Themes " ")
+* [Installation](#Installation " ")
+	* [Downloading a plugin](#Downloading-a-plugin " ")
+	* [Finding your plugins directory](#Finding-your-plugins-directory " ")
+
+## Plugins
+### Game Hider
+Raw file: https://raw.githubusercontent.com/Mariusmivw/EDPlugins/master/gameHider.js  
+This plugin allows you to hide specific programs from the `Game Activities` section in your settings
+
+### Themes
+Raw file: https://raw.githubusercontent.com/Mariusmivw/EDPlugins/master/themes.js  
+This plugin allows you to select different themes from a new `Themes` section in your settings.  
+NOTE: For this plugin to work you must have a theme folder in the same folder your [plugins directory](#Finding-your-plugins-directory "Finding your plugins Directory") is located in which you store all your themes
+
+
 ## Installation
 If you don't have `Enhanced Discord` already installed you can do so here:
 * Windows: https://github.com/joe27g/EnhancedDiscord
