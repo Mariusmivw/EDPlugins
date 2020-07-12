@@ -26,7 +26,7 @@ If you don't have `Enhanced Discord` already installed you can do so here:
 Next you just need to [download the plugin(s)](#Downloading-a-plugin "Downloading a plugin") you want to install and put them inside your [plugins directory](#Finding-your-plugins-directory "Finding your plugins Directory")
 
 ### Downloading a plugin
-1. Open the script file on github
+1. Open the script file on GitHub
 2. Click the `Raw` button at the top op the file
 3. Right-click on the page
 4. Select the `Save as...` option
