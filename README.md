@@ -15,7 +15,7 @@ This plugin allows you to hide specific programs from the `Game Activities` sect
 ### Themes
 Raw file: https://raw.githubusercontent.com/Mariusmivw/EDPlugins/master/themes.js  
 This plugin allows you to select different themes from a new `Themes` section in your settings.  
-NOTE: For this plugin to work you must have a theme folder in the same folder your [plugins directory](#Finding-your-plugins-directory "Finding your plugins Directory") is located in which you store all your themes
+**NOTE:** For this plugin to work you must have a theme folder in the same folder your [plugins directory](#Finding-your-plugins-directory "Finding your plugins Directory") is located in which you store all your themes
 
 
 ## Installation
